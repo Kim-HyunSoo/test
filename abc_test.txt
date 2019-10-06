@@ -1,1 +1,3 @@
 20191006 수업을 위한 test!
+git pull, push!
+
